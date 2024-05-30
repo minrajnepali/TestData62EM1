@@ -1,0 +1,2 @@
+Serial #s, Consumption Current (mA), Lo Gate Trig Freq,Hi Gate Trig Freq, DSAT Hi, DSAT Lo, 2L Turn Off Hi, 2L Turn Off Lo, Hi DeadTime,Lo DeadTime, Result, DateTime
+ZJ24010910010237LF,119.788,5.00048,4.99995,PASSED,PASSED,PASSED,PASSED,-186.4,377.6, --- , 4.99968,4.99982,PASSED,PASSED,PASSED,PASSED,-209.6,360.4,FAIL,5/8/2024 1:12:43 PM
